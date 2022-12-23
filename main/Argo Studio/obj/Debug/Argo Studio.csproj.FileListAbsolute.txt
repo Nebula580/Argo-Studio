@@ -1,0 +1,851 @@
+F:\Visual Studios\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Argo Studio.exe.config
+F:\Visual Studios\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Argo Studio.exe
+F:\Visual Studios\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Argo Studio.pdb
+F:\Visual Studios\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Guna.UI2.dll
+F:\Visual Studios\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo Studio.csproj.AssemblyReference.cache
+F:\Visual Studios\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.FormMainMenu.resources
+F:\Visual Studios\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Properties.Resources.resources
+F:\Visual Studios\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo Studio.csproj.GenerateResource.cache
+F:\Visual Studios\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo Studio.csproj.CoreCompileInputs.cache
+F:\Visual Studios\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo Studio.csproj.CopyComplete
+F:\Visual Studios\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo Studio.exe
+F:\Visual Studios\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo Studio.pdb
+F:\Visual Studios\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Log.Log.resources
+D:\Visual Studios\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Argo Studio.exe.config
+D:\Visual Studios\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Argo Studio.exe
+D:\Visual Studios\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Argo Studio.pdb
+D:\Visual Studios\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Guna.UI2.dll
+D:\Visual Studios\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo Studio.csproj.AssemblyReference.cache
+D:\Visual Studios\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Build_Machines.AddRobots.resources
+D:\Visual Studios\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Build_Machines.BuildMachines.resources
+D:\Visual Studios\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Log.Log.resources
+D:\Visual Studios\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.FormMainMenu.resources
+D:\Visual Studios\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Main_Menu.Machine_Programmer.MachineProgrammer.resources
+D:\Visual Studios\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Program_Robot_Arms.ProgramRobotArms.resources
+D:\Visual Studios\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Properties.Resources.resources
+D:\Visual Studios\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo Studio.csproj.GenerateResource.cache
+D:\Visual Studios\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo Studio.csproj.CoreCompileInputs.cache
+D:\Visual Studios\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo Studio.csproj.CopyComplete
+D:\Visual Studios\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo Studio.exe
+D:\Visual Studios\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo Studio.pdb
+D:\Visual Studios\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Main_Menu.Program_Robot_Arms.InputsOutputs.resources
+D:\Visual Studios\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Main_Menu.Program_Robot_Arms.Registers.resources
+D:\Visual Studios\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Main_Menu.Program_Robot_Arms.Vision.resources
+F:\Visual Studios\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Build_Machines.AddRobots.resources
+F:\Visual Studios\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Build_Machines.BuildMachines.resources
+F:\Visual Studios\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Log.FormLog.resources
+F:\Visual Studios\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Main_Menu.Machine_Programmer.FormMachineProgrammer.resources
+F:\Visual Studios\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Main_Menu.Program_Robot_Arms.FormInputsOutputs.resources
+F:\Visual Studios\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Program_Robot_Arms.ProgramRobotArms.resources
+F:\Visual Studios\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Main_Menu.Program_Robot_Arms.FormRegisters.resources
+F:\Visual Studios\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Main_Menu.Program_Robot_Arms.FormVision.resources
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Argo Studio.exe.config
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Argo Studio.exe
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Argo Studio.pdb
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Guna.UI2.dll
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo Studio.csproj.AssemblyReference.cache
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Build_Machines.AddRobots.resources
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Build_Machines.BuildMachines.resources
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Build_Machines.Machine_Programmer.FormMachineProgrammer.resources
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Log.FormLog.resources
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.FormMainMenu.resources
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Program_Robot_Arms.FormInputsOutputs.resources
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Program_Robot_Arms.FormMainControls.resources
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Program_Robot_Arms.FormRegisters.resources
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Program_Robot_Arms.FormVision.resources
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.FormSettings.resources
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.FormControls.resources
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.FormGeneral.resources
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.FormSecurity.resources
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.FormUpdates.resources
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.FormVisual.resources
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Properties.Resources.resources
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo Studio.csproj.GenerateResource.cache
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo Studio.csproj.CoreCompileInputs.cache
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo Studio.csproj.CopyComplete
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo Studio.exe
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo Studio.pdb
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Argo Studio.exe.config
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Argo Studio.exe
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Argo Studio.pdb
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Guna.UI2.dll
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.WindowsAPICodePack.dll
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Build_Machines.AddRobots.resources
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Build_Machines.BuildMachines.resources
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Build_Machines.Machine_Programmer.FormMachineProgrammer.resources
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Log.FormLog.resources
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.FormMainMenu.resources
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Program_Robot_Arms.FormInputsOutputs.resources
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Program_Robot_Arms.FormMainControls.resources
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Program_Robot_Arms.FormRegisters.resources
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Program_Robot_Arms.FormVision.resources
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.FormSettings.resources
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.FormControls.resources
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.FormGeneral.resources
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.FormSecurity.resources
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.FormUpdates.resources
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.FormVisual.resources
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.FormGetStarted.FormStartup.resources
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.FormGetStarted.Menus.FormConfigureProject.resources
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.FormGetStarted.FormGetStarted.resources
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Properties.Resources.resources
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo Studio.csproj.GenerateResource.cache
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo Studio.csproj.CoreCompileInputs.cache
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo Studio.csproj.CopyComplete
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo Studio.exe
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo Studio.pdb
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.FormGetStarted.FormStartup.resources
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.FormGetStarted.Menus.FormConfigureProject.resources
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.FormGetStarted.FormGetStarted.resources
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo Studio.csproj.AssemblyReference.cache
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.Logging.dll
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.Options.dll
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.Primitives.dll
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.Net.Http.Headers.dll
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Newtonsoft.Json.dll
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\PuppeteerSharp.dll
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\System.Buffers.dll
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\System.Text.Encodings.Web.dll
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\ICSharpCode.SharpZipLib.pdb
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\ICSharpCode.SharpZipLib.xml
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.Logging.xml
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.Options.xml
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.Primitives.xml
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.Net.Http.Headers.xml
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Newtonsoft.Json.xml
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\PuppeteerSharp.xml
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\System.Buffers.xml
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\System.Text.Encodings.Web.xml
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.Net.Http.Headers.dll
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Newtonsoft.Json.dll
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\PuppeteerSharp.dll
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\System.Buffers.dll
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\System.Text.Encodings.Web.dll
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.Net.Http.Headers.xml
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Newtonsoft.Json.xml
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\PuppeteerSharp.xml
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\System.Buffers.xml
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\System.Text.Encodings.Web.xml
+D:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\System.Memory.dll
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\System.Numerics.Vectors.dll
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\System.ValueTuple.dll
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\System.Memory.xml
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\System.Numerics.Vectors.xml
+F:\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\System.ValueTuple.xml
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Argo Studio.exe.config
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Argo Studio.exe
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Argo Studio.pdb
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Guna.UI2.dll
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\ICSharpCode.SharpZipLib.dll
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.Logging.dll
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.Options.dll
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.Primitives.dll
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.Net.Http.Headers.dll
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.WindowsAPICodePack.dll
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Newtonsoft.Json.dll
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\PuppeteerSharp.dll
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\System.Buffers.dll
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\System.Memory.dll
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\System.Numerics.Vectors.dll
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\System.Text.Encodings.Web.dll
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\System.ValueTuple.dll
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\ICSharpCode.SharpZipLib.pdb
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\ICSharpCode.SharpZipLib.xml
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.Logging.xml
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.Options.xml
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.Primitives.xml
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Microsoft.Net.Http.Headers.xml
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\Newtonsoft.Json.xml
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\PuppeteerSharp.xml
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\System.Buffers.xml
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\System.Memory.xml
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\System.Numerics.Vectors.xml
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\System.Text.Encodings.Web.xml
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\bin\Debug\System.ValueTuple.xml
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Build_Machines.BuildMachines_Form.resources
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Build_Machines.Machine_Programmer.MachineProgrammer_blocks_Form.resources
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Build_Machines.Machine_Programmer.MachineProgrammer_python_Form.resources
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Log.Log_form.resources
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.MainMenu_form.resources
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Program_Robot_Arms.InputsOutputs_form.resources
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Program_Robot_Arms.MainControls_form.resources
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Program_Robot_Arms.Registers_form.resources
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Program_Robot_Arms.Vision_form.resources
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Settings_form.resources
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.Controls_form.resources
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.General_form.resources
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.Security_form.resources
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.Updates_form.resources
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.Visual_form.resources
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.FormGetStarted.FormStartup.resources
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.FormGetStarted.Menus.ConfigureProject_form.resources
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.FormGetStarted.FormGetStarted.resources
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Properties.Resources.resources
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo Studio.csproj.GenerateResource.cache
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo Studio.csproj.CoreCompileInputs.cache
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo Studio.csproj.CopyComplete
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo Studio.exe
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo Studio.pdb
+G:\Programs\Argo\Argo & coding\Argo Studio\Argo Studio\Argo Studio\obj\Debug\Argo Studio.csproj.AssemblyReference.cache
+F:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Argo Studio.exe.config
+F:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Argo Studio.exe
+F:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Argo Studio.pdb
+F:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Guna.UI2.dll
+F:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+F:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+F:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.Logging.dll
+F:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.Options.dll
+F:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.Primitives.dll
+F:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.Net.Http.Headers.dll
+F:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.WindowsAPICodePack.dll
+F:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+F:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Newtonsoft.Json.dll
+F:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\PuppeteerSharp.dll
+F:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\System.Buffers.dll
+F:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\System.Memory.dll
+F:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\System.Numerics.Vectors.dll
+F:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\System.Text.Encodings.Web.dll
+F:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\System.ValueTuple.dll
+F:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\ICSharpCode.SharpZipLib.pdb
+F:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\ICSharpCode.SharpZipLib.xml
+F:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+F:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+F:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.Logging.xml
+F:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+F:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.Options.xml
+F:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.Primitives.xml
+F:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.Net.Http.Headers.xml
+F:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Newtonsoft.Json.xml
+F:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\PuppeteerSharp.xml
+F:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\System.Buffers.xml
+F:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\System.Memory.xml
+F:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\System.Numerics.Vectors.xml
+F:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\System.Text.Encodings.Web.xml
+F:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\System.ValueTuple.xml
+F:\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo Studio.csproj.AssemblyReference.cache
+F:\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Build_Machines.BuildMachines_Form.resources
+F:\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Build_Machines.Machine_Programmer.MachineProgrammer_blocks_Form.resources
+F:\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Build_Machines.Machine_Programmer.MachineProgrammer_python_Form.resources
+F:\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Log.Log_form.resources
+F:\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.MainMenu_form.resources
+F:\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Program_Robot_Arms.InputsOutputs_form.resources
+F:\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Program_Robot_Arms.MainControls_form.resources
+F:\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Program_Robot_Arms.Registers_form.resources
+F:\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Program_Robot_Arms.Vision_form.resources
+F:\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Settings_form.resources
+F:\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.Controls_form.resources
+F:\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.General_form.resources
+F:\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.Security_form.resources
+F:\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.Updates_form.resources
+F:\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.Visual_form.resources
+F:\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.FormGetStarted.FormStartup.resources
+F:\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.FormGetStarted.Menus.ConfigureProject_form.resources
+F:\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.FormGetStarted.FormGetStarted.resources
+F:\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Properties.Resources.resources
+F:\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo Studio.csproj.GenerateResource.cache
+F:\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo Studio.csproj.CoreCompileInputs.cache
+F:\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo Studio.csproj.CopyComplete
+F:\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo Studio.exe
+F:\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo Studio.pdb
+D:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Argo Studio.exe.config
+D:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Argo Studio.exe
+D:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Argo Studio.pdb
+D:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Guna.UI2.dll
+D:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+D:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.Net.Http.Headers.dll
+D:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Newtonsoft.Json.dll
+D:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\PuppeteerSharp.dll
+D:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\System.Buffers.dll
+D:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\System.Memory.dll
+D:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\System.Numerics.Vectors.dll
+D:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\System.Text.Encodings.Web.dll
+D:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\System.ValueTuple.dll
+D:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+D:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.Net.Http.Headers.xml
+D:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Newtonsoft.Json.xml
+D:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\PuppeteerSharp.xml
+D:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\System.Buffers.xml
+D:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\System.Memory.xml
+D:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\System.Numerics.Vectors.xml
+D:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\System.Text.Encodings.Web.xml
+D:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Argo & coding\Argo Studio\Argo Studio\bin\Debug\System.ValueTuple.xml
+D:\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo Studio.csprojAssemblyReference.cache
+D:\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Build_Machines.BuildMachines_Form.resources
+D:\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Build_Machines.Machine_Programmer.MachineProgrammer_blocks_Form.resources
+D:\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Build_Machines.Machine_Programmer.MachineProgrammer_python_Form.resources
+D:\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Log.Log_form.resources
+D:\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.MainMenu_form.resources
+D:\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Program_Robot_Arms.InputsOutputs_form.resources
+D:\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Program_Robot_Arms.MainControls_form.resources
+D:\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Program_Robot_Arms.Registers_form.resources
+D:\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Program_Robot_Arms.Vision_form.resources
+D:\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Settings_form.resources
+D:\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.Controls_form.resources
+D:\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.General_form.resources
+D:\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.Security_form.resources
+D:\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.Updates_form.resources
+D:\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.Visual_form.resources
+D:\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.FormGetStarted.FormStartup.resources
+D:\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.FormGetStarted.Menus.ConfigureProject_form.resources
+D:\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.FormGetStarted.FormGetStarted.resources
+D:\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Properties.Resources.resources
+D:\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo Studio.csproj.GenerateResource.cache
+D:\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo Studio.csproj.CoreCompileInputs.cache
+D:\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo Studio.csproj.CopyComplete
+D:\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo Studio.exe
+D:\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo Studio.pdb
+I:\USB\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Argo Studio.exe.config
+I:\USB\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Argo Studio.exe
+I:\USB\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Argo Studio.pdb
+I:\USB\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Guna.UI2.dll
+I:\USB\Argo & coding\Argo Studio\Argo Studio\bin\Debug\ICSharpCode.SharpZipLib.dll
+I:\USB\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+I:\USB\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+I:\USB\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+I:\USB\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+I:\USB\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+I:\USB\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.Logging.dll
+I:\USB\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.Options.dll
+I:\USB\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.Primitives.dll
+I:\USB\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.Net.Http.Headers.dll
+I:\USB\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.WindowsAPICodePack.dll
+I:\USB\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+I:\USB\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Newtonsoft.Json.dll
+I:\USB\Argo & coding\Argo Studio\Argo Studio\bin\Debug\PuppeteerSharp.dll
+I:\USB\Argo & coding\Argo Studio\Argo Studio\bin\Debug\System.Buffers.dll
+I:\USB\Argo & coding\Argo Studio\Argo Studio\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+I:\USB\Argo & coding\Argo Studio\Argo Studio\bin\Debug\System.Memory.dll
+I:\USB\Argo & coding\Argo Studio\Argo Studio\bin\Debug\System.Numerics.Vectors.dll
+I:\USB\Argo & coding\Argo Studio\Argo Studio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+I:\USB\Argo & coding\Argo Studio\Argo Studio\bin\Debug\System.Text.Encodings.Web.dll
+I:\USB\Argo & coding\Argo Studio\Argo Studio\bin\Debug\System.Threading.Tasks.Extensions.dll
+I:\USB\Argo & coding\Argo Studio\Argo Studio\bin\Debug\System.ValueTuple.dll
+I:\USB\Argo & coding\Argo Studio\Argo Studio\bin\Debug\ICSharpCode.SharpZipLib.pdb
+I:\USB\Argo & coding\Argo Studio\Argo Studio\bin\Debug\ICSharpCode.SharpZipLib.xml
+I:\USB\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+I:\USB\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+I:\USB\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+I:\USB\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+I:\USB\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.Logging.xml
+I:\USB\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+I:\USB\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.Options.xml
+I:\USB\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.Extensions.Primitives.xml
+I:\USB\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Microsoft.Net.Http.Headers.xml
+I:\USB\Argo & coding\Argo Studio\Argo Studio\bin\Debug\Newtonsoft.Json.xml
+I:\USB\Argo & coding\Argo Studio\Argo Studio\bin\Debug\PuppeteerSharp.xml
+I:\USB\Argo & coding\Argo Studio\Argo Studio\bin\Debug\System.Buffers.xml
+I:\USB\Argo & coding\Argo Studio\Argo Studio\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+I:\USB\Argo & coding\Argo Studio\Argo Studio\bin\Debug\System.Memory.xml
+I:\USB\Argo & coding\Argo Studio\Argo Studio\bin\Debug\System.Numerics.Vectors.xml
+I:\USB\Argo & coding\Argo Studio\Argo Studio\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+I:\USB\Argo & coding\Argo Studio\Argo Studio\bin\Debug\System.Text.Encodings.Web.xml
+I:\USB\Argo & coding\Argo Studio\Argo Studio\bin\Debug\System.Threading.Tasks.Extensions.xml
+I:\USB\Argo & coding\Argo Studio\Argo Studio\bin\Debug\System.ValueTuple.xml
+I:\USB\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo Studio.csproj.AssemblyReference.cache
+I:\USB\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Build_Machines.BuildMachines_Form.resources
+I:\USB\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Build_Machines.Machine_Programmer.MachineProgrammer_blocks_Form.resources
+I:\USB\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Build_Machines.Machine_Programmer.MachineProgrammer_python_Form.resources
+I:\USB\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Log.Log_form.resources
+I:\USB\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.MainMenu_form.resources
+I:\USB\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Program_Robot_Arms.InputsOutputs_form.resources
+I:\USB\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Program_Robot_Arms.MainControls_form.resources
+I:\USB\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Program_Robot_Arms.Registers_form.resources
+I:\USB\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Program_Robot_Arms.Vision_form.resources
+I:\USB\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Settings_form.resources
+I:\USB\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.Controls_form.resources
+I:\USB\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.General_form.resources
+I:\USB\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.Security_form.resources
+I:\USB\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.Updates_form.resources
+I:\USB\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.Visual_form.resources
+I:\USB\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.FormGetStarted.FormStartup.resources
+I:\USB\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.FormGetStarted.Menus.ConfigureProject_form.resources
+I:\USB\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Main.FormGetStarted.FormGetStarted.resources
+I:\USB\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo_Studio.Properties.Resources.resources
+I:\USB\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo Studio.csproj.GenerateResource.cache
+I:\USB\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo Studio.csproj.CoreCompileInputs.cache
+I:\USB\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo Studio.csproj.CopyComplete
+I:\USB\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo Studio.exe
+I:\USB\Argo & coding\Argo Studio\Argo Studio\obj\Debug\Argo Studio.pdb
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\bin\Debug\Argo Studio.exe.config
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\bin\Debug\Argo Studio.exe
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\bin\Debug\Argo Studio.pdb
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\bin\Debug\Guna.UI2.dll
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\bin\Debug\ICSharpCode.SharpZipLib.dll
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.Logging.dll
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.Options.dll
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.Primitives.dll
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Net.Http.Headers.dll
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.WindowsAPICodePack.dll
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\bin\Debug\Newtonsoft.Json.dll
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\bin\Debug\PuppeteerSharp.dll
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\bin\Debug\System.Buffers.dll
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\bin\Debug\System.Memory.dll
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\bin\Debug\System.Numerics.Vectors.dll
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\bin\Debug\System.Text.Encodings.Web.dll
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\bin\Debug\System.Threading.Tasks.Extensions.dll
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\bin\Debug\System.ValueTuple.dll
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\bin\Debug\ICSharpCode.SharpZipLib.pdb
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\bin\Debug\ICSharpCode.SharpZipLib.xml
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.Logging.xml
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.Options.xml
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.Primitives.xml
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Net.Http.Headers.xml
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\bin\Debug\Newtonsoft.Json.xml
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\bin\Debug\PuppeteerSharp.xml
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\bin\Debug\System.Buffers.xml
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\bin\Debug\System.Memory.xml
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\bin\Debug\System.Numerics.Vectors.xml
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\bin\Debug\System.Text.Encodings.Web.xml
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\bin\Debug\System.Threading.Tasks.Extensions.xml
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\bin\Debug\System.ValueTuple.xml
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\obj\Debug\Argo Studio.csproj.AssemblyReference.cache
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Build_Machines.BuildMachines_Form.resources
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Build_Machines.Machine_Programmer.MachineProgrammer_python_Form.resources
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Log.Log_form.resources
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.MainMenu_form.resources
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Program_Robot_Arms.InputsOutputs_form.resources
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Program_Robot_Arms.MainControls_form.resources
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Program_Robot_Arms.Registers_form.resources
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Program_Robot_Arms.Vision_form.resources
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Settings_form.resources
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.Controls_form.resources
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.General_form.resources
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.Security_form.resources
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.Updates_form.resources
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.Visual_form.resources
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.FormGetStarted.FormStartup.resources
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.FormGetStarted.Menus.ConfigureProject_form.resources
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.FormGetStarted.FormGetStarted.resources
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Properties.Resources.resources
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\obj\Debug\Argo Studio.csproj.GenerateResource.cache
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\obj\Debug\Argo Studio.csproj.CoreCompileInputs.cache
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\obj\Debug\Argo Studio.csproj.CopyComplete
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\obj\Debug\Argo Studio.exe
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\obj\Debug\Argo Studio.pdb
+I:\USB\Argo & coding\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Build_Machines.Machine_Programmer.MachineProgrammer_form.resources
+D:\Argo Studio\main\Argo Studio\bin\Debug\Argo Studio.exe.config
+D:\Argo Studio\main\Argo Studio\bin\Debug\Argo Studio.exe
+D:\Argo Studio\main\Argo Studio\bin\Debug\Argo Studio.pdb
+D:\Argo Studio\main\Argo Studio\bin\Debug\Guna.UI2.dll
+D:\Argo Studio\main\Argo Studio\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+D:\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Net.Http.Headers.dll
+D:\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Argo Studio\main\Argo Studio\bin\Debug\Newtonsoft.Json.dll
+D:\Argo Studio\main\Argo Studio\bin\Debug\PuppeteerSharp.dll
+D:\Argo Studio\main\Argo Studio\bin\Debug\System.Buffers.dll
+D:\Argo Studio\main\Argo Studio\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Argo Studio\main\Argo Studio\bin\Debug\System.Memory.dll
+D:\Argo Studio\main\Argo Studio\bin\Debug\System.Numerics.Vectors.dll
+D:\Argo Studio\main\Argo Studio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Argo Studio\main\Argo Studio\bin\Debug\System.Text.Encodings.Web.dll
+D:\Argo Studio\main\Argo Studio\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Argo Studio\main\Argo Studio\bin\Debug\System.ValueTuple.dll
+D:\Argo Studio\main\Argo Studio\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\Argo Studio\main\Argo Studio\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+D:\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Net.Http.Headers.xml
+D:\Argo Studio\main\Argo Studio\bin\Debug\Newtonsoft.Json.xml
+D:\Argo Studio\main\Argo Studio\bin\Debug\PuppeteerSharp.xml
+D:\Argo Studio\main\Argo Studio\bin\Debug\System.Buffers.xml
+D:\Argo Studio\main\Argo Studio\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Argo Studio\main\Argo Studio\bin\Debug\System.Memory.xml
+D:\Argo Studio\main\Argo Studio\bin\Debug\System.Numerics.Vectors.xml
+D:\Argo Studio\main\Argo Studio\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Argo Studio\main\Argo Studio\bin\Debug\System.Text.Encodings.Web.xml
+D:\Argo Studio\main\Argo Studio\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Argo Studio\main\Argo Studio\bin\Debug\System.ValueTuple.xml
+D:\Argo Studio\main\Argo Studio\obj\Debug\Argo Studio.csprojAssemblyReference.cache
+D:\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Build_Machines.BuildMachines_Form.resources
+D:\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Build_Machines.Machine_Programmer.MachineProgrammer_form.resources
+D:\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Build_Machines.Machine_Programmer.MachineProgrammer_python_Form.resources
+D:\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Log.Log_form.resources
+D:\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.MainMenu_form.resources
+D:\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Program_Robot_Arms.InputsOutputs_form.resources
+D:\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Program_Robot_Arms.MainControls_form.resources
+D:\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Program_Robot_Arms.Registers_form.resources
+D:\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Program_Robot_Arms.Vision_form.resources
+D:\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Settings_form.resources
+D:\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.Controls_form.resources
+D:\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.General_form.resources
+D:\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.Security_form.resources
+D:\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.Updates_form.resources
+D:\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.Visual_form.resources
+D:\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.FormGetStarted.FormStartup.resources
+D:\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.FormGetStarted.Menus.ConfigureProject_form.resources
+D:\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.FormGetStarted.FormGetStarted.resources
+D:\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Properties.Resources.resources
+D:\Argo Studio\main\Argo Studio\obj\Debug\Argo Studio.csproj.GenerateResource.cache
+D:\Argo Studio\main\Argo Studio\obj\Debug\Argo Studio.csproj.CoreCompileInputs.cache
+D:\Argo Studio\main\Argo Studio\obj\Debug\Argo Studio.csproj.CopyComplete
+D:\Argo Studio\main\Argo Studio\obj\Debug\Argo Studio.exe
+D:\Argo Studio\main\Argo Studio\obj\Debug\Argo Studio.pdb
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Argo Studio.exe.config
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Argo Studio.exe
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Argo Studio.pdb
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Guna.UI2.dll
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\bin\Debug\PuppeteerSharp.dll
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\bin\Debug\System.Buffers.dll
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\bin\Debug\System.Memory.dll
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\bin\Debug\System.ValueTuple.dll
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\bin\Debug\PuppeteerSharp.xml
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\bin\Debug\System.Buffers.xml
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\bin\Debug\System.Memory.xml
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\bin\Debug\System.ValueTuple.xml
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo Studio.csproj.AssemblyReference.cache
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo Studio.csproj.SuggestedBindingRedirects.cache
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Build_Machines.BuildMachines_Form.resources
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Build_Machines.Machine_Programmer.MachineProgrammer_form.resources
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Build_Machines.Machine_Programmer.MachineProgrammer_python_Form.resources
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Log.Log_form.resources
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.MainMenu_form.resources
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Program_Robot_Arms.InputsOutputs_form.resources
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Program_Robot_Arms.MainControls_form.resources
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Robot_Programmer.Main_Controls.ModifyLine_form.resources
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Program_Robot_Arms.StoredPositions_form.resources
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Program_Robot_Arms.Vision_form.resources
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Settings_form.resources
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.Controls_form.resources
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.General_form.resources
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.Security_form.resources
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.Updates_form.resources
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.Visual_form.resources
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.FormGetStarted.FormStartup.resources
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.FormGetStarted.Menus.ConfigureProject_form.resources
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.FormGetStarted.FormGetStarted.resources
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Properties.Resources.resources
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo Studio.csproj.GenerateResource.cache
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo Studio.csproj.CoreCompileInputs.cache
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo Studio.csproj.CopyComplete
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo Studio.exe
+C:\Users\evand\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo Studio.pdb
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Argo Studio.exe.config
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Argo Studio.exe
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Argo Studio.pdb
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Guna.UI2.dll
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\bin\Debug\PuppeteerSharp.dll
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\bin\Debug\System.Buffers.dll
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\bin\Debug\System.Memory.dll
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\bin\Debug\System.ValueTuple.dll
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\bin\Debug\PuppeteerSharp.xml
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\bin\Debug\System.Buffers.xml
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\bin\Debug\System.Memory.xml
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\bin\Debug\System.ValueTuple.xml
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo Studio.csproj.AssemblyReference.cache
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo Studio.csproj.SuggestedBindingRedirects.cache
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Build_Machines.BuildMachines_Form.resources
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Build_Machines.Machine_Programmer.MachineProgrammer_form.resources
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Log.Log_form.resources
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.MainMenu_form.resources
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Program_Robot_Arms.InputsOutputs_form.resources
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Program_Robot_Arms.MainControls_form.resources
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Robot_Programmer.Main_Controls.ModifyLine_form.resources
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Program_Robot_Arms.StoredPositions_form.resources
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Program_Robot_Arms.Vision_form.resources
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Settings_form.resources
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.Controls_form.resources
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.General_form.resources
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.Security_form.resources
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.Updates_form.resources
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.Visual_form.resources
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.FormGetStarted.FormStartup.resources
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.FormGetStarted.Menus.ConfigureProject_form.resources
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.FormGetStarted.FormGetStarted.resources
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Properties.Resources.resources
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo Studio.csproj.GenerateResource.cache
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo Studio.csproj.CoreCompileInputs.cache
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo Studio.csproj.CopyComplete
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo Studio.exe
+C:\Users\dipla\OneDrive\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo Studio.pdb
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\bin\Debug\Argo Studio.exe.config
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\bin\Debug\Argo Studio.exe
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\bin\Debug\Argo Studio.pdb
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\bin\Debug\Guna.UI2.dll
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\bin\Debug\PuppeteerSharp.dll
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\bin\Debug\System.Buffers.dll
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\bin\Debug\System.Memory.dll
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\bin\Debug\System.ValueTuple.dll
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\bin\Debug\PuppeteerSharp.xml
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\bin\Debug\System.Buffers.xml
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\bin\Debug\System.Memory.xml
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\bin\Debug\System.ValueTuple.xml
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\obj\Debug\Argo Studio.csproj.AssemblyReference.cache
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\obj\Debug\Argo Studio.csproj.SuggestedBindingRedirects.cache
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Build_Machines.BuildMachines_Form.resources
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Build_Machines.Machine_Programmer.MachineProgrammer_form.resources
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Log.Log_form.resources
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.MainMenu_form.resources
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Program_Robot_Arms.InputsOutputs_form.resources
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Program_Robot_Arms.MainControls_form.resources
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Robot_Programmer.Main_Controls.ModifyLine_form.resources
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Program_Robot_Arms.StoredPositions_form.resources
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Program_Robot_Arms.Vision_form.resources
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Settings_form.resources
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.Controls_form.resources
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.General_form.resources
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.Security_form.resources
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.Updates_form.resources
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.Visual_form.resources
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.FormGetStarted.FormStartup.resources
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.FormGetStarted.Menus.ConfigureProject_form.resources
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.FormGetStarted.FormGetStarted.resources
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Properties.Resources.resources
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\obj\Debug\Argo Studio.csproj.GenerateResource.cache
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\obj\Debug\Argo Studio.csproj.CoreCompileInputs.cache
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\obj\Debug\Argo Studio.csproj.CopyComplete
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\obj\Debug\Argo Studio.exe
+C:\Users\evand\OneDrive\Version Backups\Argo Studio\2022-04-12\Argo Studio\main\Argo Studio\obj\Debug\Argo Studio.pdb
+C:\Users\evand\OneDrive\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo Studio.csproj.AssemblyReference.cache
+C:\Users\evand\OneDrive\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo Studio.csproj.SuggestedBindingRedirects.cache
+C:\Users\evand\OneDrive\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Build_Machines.BuildMachines_form.resources
+C:\Users\evand\OneDrive\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Build_Machines.Machine_Programmer.MachineProgrammer_form.resources
+C:\Users\evand\OneDrive\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Log.Log_form.resources
+C:\Users\evand\OneDrive\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.MainMenu_form.resources
+C:\Users\evand\OneDrive\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Program_Robot_Arms.IO_form.resources
+C:\Users\evand\OneDrive\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.RobotProgrammer.MainControls.ConnectRobot_form.resources
+C:\Users\evand\OneDrive\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Program_Robot_Arms.MainControls_form.resources
+C:\Users\evand\OneDrive\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Robot_Programmer.Main_Controls.ModifyLine_form.resources
+C:\Users\evand\OneDrive\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Program_Robot_Arms.SP_form.resources
+C:\Users\evand\OneDrive\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Program_Robot_Arms.Vision_form.resources
+C:\Users\evand\OneDrive\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Settings_form.resources
+C:\Users\evand\OneDrive\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.Controls_form.resources
+C:\Users\evand\OneDrive\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.General_form.resources
+C:\Users\evand\OneDrive\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.Security_form.resources
+C:\Users\evand\OneDrive\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.Updates_form.resources
+C:\Users\evand\OneDrive\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.Settings.Menus.Visual_form.resources
+C:\Users\evand\OneDrive\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.FormGetStarted.FormStartup.resources
+C:\Users\evand\OneDrive\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.FormGetStarted.Menus.ConfigureProject_form.resources
+C:\Users\evand\OneDrive\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Main.FormGetStarted.FormGetStarted.resources
+C:\Users\evand\OneDrive\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo_Studio.Properties.Resources.resources
+C:\Users\evand\OneDrive\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo Studio.csproj.GenerateResource.cache
+C:\Users\evand\OneDrive\Desktop\Argo Studio\main\Argo Studio\obj\Debug\Argo Studio.csproj.CoreCompileInputs.cache

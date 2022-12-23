@@ -1,0 +1,624 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E43624BC-E782-4AB0-966F-3A61CA5AAFEB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ArgoStudio</RootNamespace>
+    <AssemblyName>Argo Studio</AssemblyName>
+    <TargetFrameworkVersion>v4.8.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup />
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI2, Version=2.0.3.5, Culture=neutral, PublicKeyToken=4015e4865bda28a4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.3.5\lib\net40\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="ICSharpCode.SharpZipLib, Version=1.4.1.12, Culture=neutral, PublicKeyToken=1b03e6acf1164f73, processorArchitecture=MSIL">
+      <HintPath>..\packages\SharpZipLib.1.4.1\lib\netstandard2.0\ICSharpCode.SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNetCore.WebUtilities, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNetCore.WebUtilities.2.2.0\lib\netstandard2.0\Microsoft.AspNetCore.WebUtilities.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.7.0.0\lib\net462\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.DependencyInjection, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.DependencyInjection.7.0.0\lib\net462\Microsoft.Extensions.DependencyInjection.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.DependencyInjection.Abstractions, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.DependencyInjection.Abstractions.7.0.0\lib\net462\Microsoft.Extensions.DependencyInjection.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Logging, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Logging.7.0.0\lib\net462\Microsoft.Extensions.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Logging.Abstractions, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Logging.Abstractions.7.0.0\lib\net462\Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Options, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Options.7.0.0\lib\net462\Microsoft.Extensions.Options.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Primitives, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Primitives.7.0.0\lib\net462\Microsoft.Extensions.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Net.Http.Headers, Version=2.2.8.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Net.Http.Headers.2.2.8\lib\netstandard2.0\Microsoft.Net.Http.Headers.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.WindowsAPICodePack">
+      <HintPath>..\Libraries\Microsoft.WindowsAPICodePack.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.WindowsAPICodePack.Shell">
+      <HintPath>..\Libraries\Microsoft.WindowsAPICodePack.Shell.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Ookii.Dialogs.WinForms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=66aa232afad40158, processorArchitecture=MSIL">
+      <HintPath>..\packages\Ookii.Dialogs.WinForms.4.0.0\lib\net462\Ookii.Dialogs.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="PuppeteerSharp, Version=8.0.0.0, Culture=neutral, PublicKeyToken=db12f80f85d8ba23, processorArchitecture=MSIL">
+      <HintPath>..\packages\PuppeteerSharp.8.0.0\lib\netstandard2.0\PuppeteerSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Diagnostics.DiagnosticSource, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Diagnostics.DiagnosticSource.7.0.0\lib\net462\System.Diagnostics.DiagnosticSource.dll</HintPath>
+    </Reference>
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.IO, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.4.3.0\lib\net462\System.IO.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http, Version=4.1.1.3, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Net.Http.4.3.4\lib\net46\System.Net.Http.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Resources.Extensions, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Resources.Extensions.7.0.0\lib\net462\System.Resources.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime, Version=4.1.1.1, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.4.3.1\lib\net462\System.Runtime.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security" />
+    <Reference Include="System.Security.Cryptography.Algorithms, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.Algorithms.4.3.1\lib\net463\System.Security.Cryptography.Algorithms.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Encoding, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.Encoding.4.3.0\lib\net46\System.Security.Cryptography.Encoding.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Primitives, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.Primitives.4.3.0\lib\net46\System.Security.Cryptography.Primitives.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.X509Certificates, Version=4.1.1.2, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.X509Certificates.4.3.2\lib\net461\System.Security.Cryptography.X509Certificates.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Text.Encodings.Web, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Encodings.Web.7.0.0\lib\net462\System.Text.Encodings.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Main\BuildMachines\BuildMachines_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\BuildMachines\BuildMachines_form.Designer.cs">
+      <DependentUpon>BuildMachines_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\BuildMachines\MachineProgrammer\MachineProgrammer_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\BuildMachines\MachineProgrammer\MachineProgrammer_form.Designer.cs">
+      <DependentUpon>MachineProgrammer_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\BuildMachines\MachineProgrammer\MachineProgrammer.cs" />
+    <Compile Include="Main\Classes\AppData.cs" />
+    <Compile Include="Main\Classes\CustomColors.cs" />
+    <Compile Include="Main\Classes\Directories.cs" />
+    <Compile Include="Main\Classes\Log.cs" />
+    <Compile Include="Main\Classes\Theme.cs" />
+    <Compile Include="Main\Classes\Tools.cs" />
+    <Compile Include="Main\CustomMessageForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\CustomMessageForm.Designer.cs">
+      <DependentUpon>CustomMessageForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\Log_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\Log_form.Designer.cs">
+      <DependentUpon>Log_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\RobotProgrammer\MainControls\SaveSP_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\RobotProgrammer\MainControls\SaveSP_form.Designer.cs">
+      <DependentUpon>SaveSP_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\Classes\UI.cs" />
+    <Compile Include="Main\MainMenu\MainMenu_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\MainMenu\MainMenu_form.Designer.cs">
+      <DependentUpon>MainMenu_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\Classes\UserSettings.cs" />
+    <Compile Include="Main\RobotProgrammer\IO_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\RobotProgrammer\IO_form.Designer.cs">
+      <DependentUpon>IO_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\RobotProgrammer\MainControls\Setup\ConnectRobot_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\RobotProgrammer\MainControls\Setup\ConnectRobot_form.Designer.cs">
+      <DependentUpon>ConnectRobot_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\RobotProgrammer\MainControls\MainControls_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\RobotProgrammer\MainControls\MainControls_form.Designer.cs">
+      <DependentUpon>MainControls_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\RobotProgrammer\MainControls\ModifyCommand_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\RobotProgrammer\MainControls\ModifyCommand_form.Designer.cs">
+      <DependentUpon>ModifyCommand_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\RobotProgrammer\MainControls\Setup\Program_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\RobotProgrammer\MainControls\Setup\Program_form.Designer.cs">
+      <DependentUpon>Program_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\RobotProgrammer\MainControls\Setup\Setup_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\RobotProgrammer\MainControls\Setup\Setup_form.Designer.cs">
+      <DependentUpon>Setup_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\RobotProgrammer\MainControls\Setup\Tutorial_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\RobotProgrammer\MainControls\Setup\Tutorial_form.Designer.cs">
+      <DependentUpon>Tutorial_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\RobotProgrammer\MainControls\Speed.cs" />
+    <Compile Include="Main\RobotProgrammer\MainControls\Speed_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\RobotProgrammer\MainControls\Speed_form.Designer.cs">
+      <DependentUpon>Speed_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\RobotProgrammer\MainControls\Variables.cs" />
+    <Compile Include="Main\RobotProgrammer\SP_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\RobotProgrammer\SP_form.Designer.cs">
+      <DependentUpon>SP_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\RobotProgrammer\Vision\Vision_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\RobotProgrammer\Vision\Vision_form.Designer.cs">
+      <DependentUpon>Vision_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\Settings\Settings_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\Settings\Settings_form.Designer.cs">
+      <DependentUpon>Settings_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\Settings\Menus\Controls_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\Settings\Menus\Controls_form.Designer.cs">
+      <DependentUpon>Controls_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\Settings\Menus\General_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\Settings\Menus\General_form.Designer.cs">
+      <DependentUpon>General_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\Settings\Menus\Security_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\Settings\Menus\Security_form.Designer.cs">
+      <DependentUpon>Security_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\Settings\Menus\Updates_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\Settings\Menus\Updates_form.Designer.cs">
+      <DependentUpon>Updates_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\Settings\Menus\Visual_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\Settings\Menus\Visual_form.Designer.cs">
+      <DependentUpon>Visual_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\Startup\Menus\ConfigureProject_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\Startup\Menus\ConfigureProject_form.Designer.cs">
+      <DependentUpon>ConfigureProject_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\Startup\Startup_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\Startup\Startup_form.Designer.cs">
+      <DependentUpon>Startup_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\Startup\Menus\GetStarted_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\Startup\Menus\GetStarted_form.Designer.cs">
+      <DependentUpon>GetStarted_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Main\BuildMachines\BuildMachines_form.resx">
+      <DependentUpon>BuildMachines_form.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\BuildMachines\MachineProgrammer\MachineProgrammer_form.resx">
+      <DependentUpon>MachineProgrammer_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\CustomMessageForm.resx">
+      <DependentUpon>CustomMessageForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\Log_form.resx">
+      <DependentUpon>Log_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\MainMenu\MainMenu_form.resx">
+      <DependentUpon>MainMenu_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\RobotProgrammer\IO_form.resx">
+      <DependentUpon>IO_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\RobotProgrammer\MainControls\Setup\ConnectRobot_form.resx">
+      <DependentUpon>ConnectRobot_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\RobotProgrammer\MainControls\MainControls_form.resx">
+      <DependentUpon>MainControls_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\RobotProgrammer\MainControls\ModifyCommand_form.resx">
+      <DependentUpon>ModifyCommand_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\RobotProgrammer\MainControls\Setup\Program_form.resx">
+      <DependentUpon>Program_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\RobotProgrammer\MainControls\SaveSP_form.resx">
+      <DependentUpon>SaveSP_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\RobotProgrammer\MainControls\Setup\Setup_form.resx">
+      <DependentUpon>Setup_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\RobotProgrammer\MainControls\Setup\Tutorial_form.resx">
+      <DependentUpon>Tutorial_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\RobotProgrammer\MainControls\Speed_form.resx">
+      <DependentUpon>Speed_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\RobotProgrammer\SP_form.resx">
+      <DependentUpon>SP_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\RobotProgrammer\Vision\Vision_form.resx">
+      <DependentUpon>Vision_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\Settings\Settings_form.resx">
+      <DependentUpon>Settings_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\Settings\Menus\Controls_form.resx">
+      <DependentUpon>Controls_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\Settings\Menus\General_form.resx">
+      <DependentUpon>General_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\Settings\Menus\Security_form.resx">
+      <DependentUpon>Security_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\Settings\Menus\Updates_form.resx">
+      <DependentUpon>Updates_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\Settings\Menus\Visual_form.resx">
+      <DependentUpon>Visual_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\Startup\Menus\ConfigureProject_form.resx">
+      <DependentUpon>ConfigureProject_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\Startup\Startup_form.resx">
+      <DependentUpon>Startup_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\Startup\Menus\GetStarted_form.resx">
+      <DependentUpon>GetStarted_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="app.manifest" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Import.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Play.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StopWhite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pause.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OpenFolder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Main\MainMenu\Vulkan\" />
+    <Folder Include="Main\RobotProgrammer\Vision\OpenCV\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3Dots.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Warning.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Temp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Minus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Plus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EyeOpen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EyeClosed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CloseGrey.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FileGray.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FileWhite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CreateFile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CloseWhite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MenuGray.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SaveGray.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SaveWhite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Account.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RefreshGray.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HelpGray.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HelpWhite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RefreshWhite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MenuWhite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RightArrowGray.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DownArrowGray.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HelpBlue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PlugInWhite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PlugInBlack.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ProgramBlack.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ProgramWhite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UploadBlack.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UploadWhite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BackwardArrowBlack.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BackArrowWhite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BackwardArrowWhite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ForwardArrowBlack.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SpeedBlack.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SpeedWhite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\export.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ExportBlack.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ImportBlack.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trash.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
